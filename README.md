@@ -1,0 +1,2 @@
+# LOTLTHNBR_Detector_REGEXP
+LOTLTHNBRの照会に使用する未返納教員免許状一覧の照会用正規表現生成等
